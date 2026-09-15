@@ -50,19 +50,20 @@ The scripts and analysis code used for ABM 1 are provided in this repository to 
 
 ## Citation
 
-If you use this code, model, or any part of this repository in research, publications, presentations, or other academic work, please cite the associated Zenodo record and acknowledge the author.
+If you use this code in your research or publication, please cite the following paper:
 
-The DOI will be added after the repository is archived by Zenodo.
+Fiaz, M.T., M.H. Mushtaq, F. Awan and A. Riaz (2026). Detection of Multidrug Resistant Milk Associated Psychrotrophic Pseudomonas spp. Using Lab Based and Agent Based Modeling Approaches in Pakistan. J. Anim. Plant Sci.
 
-Suggested citation:
-
-Fiaz, M.T., M.H. Mushtaq, F. Awan and A. Riaz (2026). Detection of Multidrug Resistant Milk Associated Psychrotrophic Pseudomonas spp. Using Lab Based and Agent Based Modeling Approaches in Pakistan. J. Anim. Plant Sci. DOI:
+The paper DOI will be added after publication.
 
 ## Code Use and Attribution
 
-If you use, modify, or build upon this code, please acknowledge the original work and cite the associated DOI.
+If you use, modify, or build upon this code, please acknowledge the original work and cite the associated research paper.
 
 Please do not present this code, model, or substantial parts of it as your own original work.
+
+
+
 
 
 
