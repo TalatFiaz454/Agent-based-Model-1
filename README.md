@@ -54,6 +54,10 @@ If you use this code in your research or publication, please cite the following 
 
 Fiaz, M.T., M.H. Mushtaq, F. Awan and A. Riaz (2026). Detection of Multidrug Resistant Milk Associated Psychrotrophic Pseudomonas spp. Using Lab Based and Agent Based Modeling Approaches in Pakistan. J. Anim. Plant Sci.
 
+The Agent Based Model 1 code is archived in Zenodo:
+
+Fiaz, M.T. (2026). Agent Based Model 1 Code Release v1.0.0. Zenodo. DOI: 10.5281/zenodo.22773612
+
 The paper DOI will be added after publication.
 
 ## Code Use and Attribution
