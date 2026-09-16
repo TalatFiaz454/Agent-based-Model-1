@@ -2,7 +2,7 @@
 
 Author: Muhammad Tulat Fiaz, Furqan Awan
 
-Agent based model simulating the emergence of multidrug resistance through horizontal gene transfer during milk aggregation, transport and storage.
+Agent based model simulating the emergence of drug resistance through horizontal gene transfer during milk aggregation, transport and storage.
 
 ## Files
 
