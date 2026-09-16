@@ -1,4 +1,4 @@
-# Agent Based Model 1
+Milk Supply Chain AMR Emergence Model
 
 Author: Muhammad Tulat Fiaz, Furqan Awan
 
