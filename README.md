@@ -1,6 +1,6 @@
 # Agent Based Model 1
 
-Author: Muhammad Tulat Fiaz
+Author: Muhammad Tulat Fiaz, Furqan Awan
 
 Agent based model simulating the emergence of multidrug resistance through horizontal gene transfer during milk aggregation, transport and storage.
 
@@ -56,7 +56,7 @@ Fiaz, M.T., M.H. Mushtaq, F. Awan and A. Riaz (2026). Detection of Multidrug Res
 
 The Agent Based Model 1 code is archived in Zenodo:
 
-Fiaz, M.T. (2026). Agent Based Model 1 Code Release v1.0.0. Zenodo. DOI: 10.5281/zenodo.22773612
+Fiaz, M.T. and F. Awan (2026). Agent Based Model 1 Code Release v1.0.0. Zenodo. DOI: 10.5281/zenodo.22773612
 
 The paper DOI will be added after publication.
 
