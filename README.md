@@ -1,8 +1,8 @@
-Milk Supply Chain AMR Emergence Model
+# Milk Supply Chain AMR Emergence Model
 
-Author: Muhammad Tulat Fiaz, Furqan Awan
+Authors: Muhammad Tulat Fiaz and Furqan Awan
 
-Agent based model simulating the emergence of drug resistance through horizontal gene transfer during milk aggregation, transport and storage.
+An agent based model simulating the emergence of antimicrobial resistance through horizontal gene transfer during milk aggregation, transport, and storage.
 
 ## Files
 
@@ -12,7 +12,7 @@ Defines the milk batch agents, bacterial growth, AMR gene acquisition, and horiz
 
 `model.py`
 
-Defines the ABM 1 milk supply chain model and its simulation parameters and outputs.
+Defines the Milk Supply Chain AMR Emergence Model, including the milk supply chain structure, simulation parameters, and model outputs.
 
 `run.py`
 
@@ -48,23 +48,26 @@ The model was developed in Python using Mesa, NumPy, pandas, and Matplotlib.
 
 The scripts and analysis code used for ABM 1 are provided in this repository to support reproducibility of the reported analysis.
 
+The complete software release is archived in Zenodo.
+
 ## Citation
 
-If you use this code in your research or publication, please cite the following paper:
+If you use this code in your research or publication, please cite the associated research paper:
 
 Fiaz, M.T., M.H. Mushtaq, F. Awan and A. Riaz (2026). Detection of Multidrug Resistant Milk Associated Psychrotrophic Pseudomonas spp. Using Lab Based and Agent Based Modeling Approaches in Pakistan. J. Anim. Plant Sci.
 
-The Agent Based Model 1 code is archived in Zenodo:
+The software release is archived in Zenodo:
 
-Fiaz, M.T. and F. Awan (2026). Agent Based Model 1 Code Release v1.0.0. Zenodo. DOI: 10.5281/zenodo.22773612
+Fiaz, M.T. and F. Awan (2026). Milk Supply Chain AMR Emergence Model. Zenodo. DOI: 10.5281/zenodo.22773612
 
 The paper DOI will be added after publication.
 
 ## Code Use and Attribution
 
-If you use, modify, or build upon this code, please acknowledge the original work and cite the associated research paper.
+If you use, modify, or build upon this code, please acknowledge the original work and cite the associated research paper and software release.
 
 Please do not present this code, model, or substantial parts of it as your own original work.
+
 
 
 
