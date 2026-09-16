@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Milk Supply Chain AMR Emergence Model"
+version: "v1.0.0"
+doi: "10.5281/zenodo.22773612"
+date-released: 2026-09-15
+license: "MIT"
+
+authors:
+  - family-names: "Fiaz"
+    given-names: "Muhammad Tulat"
+    affiliation: "University of Veterinary and Animal Sciences, Lahore, Pakistan"
+
+  - family-names: "Awan"
+    given-names: "Furqan"
+    affiliation: "University of Veterinary and Animal Sciences, Lahore, Pakistan"
+
+repository-code: "https://github.com/TalatFiaz454/Milk-Supply-Chain-AMR-Emergence-Model"
