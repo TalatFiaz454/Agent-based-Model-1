@@ -106,10 +106,10 @@ Fiaz, M.T. and F. Awan (2026). Milk Supply Chain AMR Emergence Model (Version v1
 
 The paper DOI will be added after publication.
 
-## Contributors
+## Authors and Supervision
 
-- [Muhammad Tulat Fiaz](https://github.com/TalatFiaz454) — Data collection, analysis, data organization, and documentation
-- [Furqan Awan](https://github.com/furqan915) — Lead model development, implementation, and computational modeling
+- [Muhammad Tulat Fiaz](https://github.com/TalatFiaz454) — Student researcher; data collection, analysis, organization, and documentation
+- [Furqan Awan](https://github.com/furqan915) — Academic supervisor; model development and implementation
 
 ## Code Use and Attribution
 
