@@ -44,6 +44,16 @@ The HGT probability was evaluated at 0, 0.05, 0.10, and 0.20, with 50 simulation
 
 The model was developed in Python using Mesa, NumPy, pandas, and Matplotlib.
 
+## Figures
+
+### ABM-1 Results
+
+![ABM-1 HGT Emergence](figures/ABM1_HGT_Emergence.png)
+
+![ABM-1 HGT Calibration](figures/FIG_ABM1_HGT_Calibration.png)
+
+![ABM-1 Multi-Panel Validation](figures/FIG_ABM1_MultiPanel_Validation.png)
+
 ## Reproducibility
 
 The scripts and analysis code used for ABM 1 are provided in this repository to support reproducibility of the reported analysis.
@@ -58,7 +68,7 @@ Fiaz, M.T., M.H. Mushtaq, F. Awan and A. Riaz (2026). Detection of Multidrug Res
 
 The software release is archived in Zenodo:
 
-Fiaz, M.T. and F. Awan (2026). Milk Supply Chain AMR Emergence Model. Zenodo. DOI: 10.5281/zenodo.22773612
+Fiaz, M.T. and F. Awan (2026). Milk Supply Chain AMR Emergence Model (Version v1.0.0). Zenodo. DOI: 10.5281/zenodo.22773612
 
 The paper DOI will be added after publication.
 
@@ -67,7 +77,6 @@ The paper DOI will be added after publication.
 If you use, modify, or build upon this code, please acknowledge the original work and cite the associated research paper and software release.
 
 Please do not present this code, model, or substantial parts of it as your own original work.
-
 
 
 
