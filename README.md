@@ -1,6 +1,8 @@
 # Milk Supply Chain AMR Emergence Model
 
-Authors: Muhammad Tulat Fiaz and Furqan Awan
+Authors: [Muhammad Tulat Fiaz](https://github.com/TalatFiaz454) and [Furqan Awan](https://github.com/furqan915)
+
+Supervisor: [Furqan Awan](https://github.com/furqan915)
 
 An agent-based model (ABM) simulating the emergence of antimicrobial resistance (AMR) through horizontal gene transfer (HGT) during milk aggregation, transport, and storage.
 
